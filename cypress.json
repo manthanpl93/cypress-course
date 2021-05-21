@@ -1,0 +1,7 @@
+{
+    "defaultCommandTimeout": 8000,
+    "pageLoadTime": 10000,
+    "env" : {
+      "url": "https://rahulshettyacademy.com"
+    }
+}
