@@ -3,5 +3,9 @@
     "pageLoadTime": 10000,
     "env" : {
       "url": "https://rahulshettyacademy.com"
-    }
+    },
+    "retries": {
+      "runMode": 1
+    },
+    "testFiles": "**/*.*"
 }
